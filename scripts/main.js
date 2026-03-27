@@ -340,8 +340,8 @@ class ImageRotator {
         const pathParts = path.split("/");
         const filename = pathParts.pop();
         const decodedFilename = decodeURIComponent(filename);
-        let parentDir = pathParts.join("/");
-
+        let parentDir = decodeURIComponent(pathParts.join("/"));
+        
         let baseName = decodedFilename.substring(0, decodedFilename.lastIndexOf(".")) || decodedFilename;
         let currentRotation = 0;
 
