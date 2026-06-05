@@ -23,7 +23,7 @@
       "path": "languages/en.json"
     }
   ],
-  "url": "https://github.com/GeanoFee/geanos-scene-rotation",
-  "manifest": "https://github.com/GeanoFee/geanos-scene-rotation/releases/download/2.0.0/module.json",
-  "download": "https://github.com/GeanoFee/geanos-scene-rotation/releases/download/2.0.0/module.zip"
+  "url": "https://github.com/GeanoFeeFoundry/geanos-scene-rotation",
+  "manifest": "https://github.com/GeanoFeeFoundry/geanos-scene-rotation/releases/download/2.0.1/module.json",
+  "download": "https://github.com/GeanoFeeFoundry/geanos-scene-rotation/releases/download/2.0.1/module.zip"
 }
